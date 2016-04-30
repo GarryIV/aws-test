@@ -1,1 +1,1 @@
-# aws-test
+Project for learning AWS and Spring
